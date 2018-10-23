@@ -1,0 +1,24 @@
+1. A profissão que tem mais tendência é trabalhador manual("blue-collar"),
+e o empréstimo mais comum feito por essa classe é o imobiliário.
+
+2. Olhando a figura rate_previous gerada, percebe-se que a taxa de sucesso da
+campanha cai junto com a quantidade de tentativas feitas. Mas perde-se essa taxa
+a partir de 15 contatos, pois não tem dados suficientes para gerar uma taxa
+confiável.
+
+3. O numero médio seria 2 ligações e o número máximo seria 4 ligações.
+
+4. Mais de 80% dos participantes dessa campanha não participaram da campanha
+antiga. Entretanto, entre os que participaram é possível saber se eles irão
+aderir, com uma acurácia de 82% aproximadamente. Logo, pode-se otimizar essa
+menor porcentagem, para tentar trazer mais participantes que não participaram
+da campanha anterior.
+
+5. O fator mais determinante é se a pessoa não tem um empréstimo pessoal.
+
+6. As características são:
+Pessoas adultas e de meia idade, entre 30 e 47;
+Pessoas casadas;
+Pessoas que completaram até o secundário;
+Pessoas sem empréstimos pessoais;
+Pessoas sem dividas de cartão;
