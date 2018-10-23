@@ -6,7 +6,7 @@ As bibliotecas externas usadas foram:
   - statistics
   - sklearn
 
-O zip contém os programas desenvolvidos, o banco usado e um txt com as respostas do desafio.
+A pasta desafio semantix contém os programas desenvolvidos, o banco usado e um txt com as respostas do desafio.
 
 O programa inicial é o index.py.
 
