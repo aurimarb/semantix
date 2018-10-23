@@ -5,8 +5,11 @@ As bibliotecas externas usadas foram:
   - matplotlib.pyplot
   - statistics
   - sklearn
-# O zip contém os programas desenvolvidos, o banco usado e um txt com as respostas do desafio.
-# O programa inicial é o index.py.
-# O outro programa é mais para ajudar na organização.
+
+O zip contém os programas desenvolvidos, o banco usado e um txt com as respostas do desafio.
+
+O programa inicial é o index.py.
+
+O outro programa é mais para ajudar na organização.
 
   
